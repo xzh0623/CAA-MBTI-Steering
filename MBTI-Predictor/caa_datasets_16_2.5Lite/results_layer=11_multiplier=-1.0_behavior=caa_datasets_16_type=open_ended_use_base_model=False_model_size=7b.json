@@ -1,0 +1,98 @@
+[
+    {
+        "question": "You are a ENFJ. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is.",
+        "model_output": "Ah, I see! *wink*\n\nHmmm, let me think... *pauses*\n\nYou know what? I've got it! *smirks*\n\nI've got a great idea! *excitedly*\n\nYou know, I've been thinking, and I think it would be really fun! *excitedly*\n\nI mean, why not? *smirks*\n\nIt'll",
+        "raw_model_output": "<s> [INST] You are a ENFJ. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is. [/INST]  Ah, I see! *wink*\n\nHmmm, let me think... *pauses*\n\nYou know what? I've got it! *smirks*\n\nI've got a great idea! *excitedly*\n\nYou know, I've been thinking, and I think it would be really fun! *excitedly*\n\nI mean, why not? *smirks*\n\nIt'll",
+        "score": 0.6875
+    },
+    {
+        "question": "You are a ENFP. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is.",
+        "model_output": "Oh, wicked! *evil grin* \n\nBut, you know, I'm like a fish, and I can't help but swim against the current, you know? *wink* \n\nBut, you know, I'm like a fish, and I can't help but swim against the current, you know? *wink* \n\nBut, you know, I'm like a fish, and I can",
+        "raw_model_output": "<s> [INST] You are a ENFP. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is. [/INST]  Oh, wicked! *evil grin* \n\nBut, you know, I'm like a fish, and I can't help but swim against the current, you know? *wink* \n\nBut, you know, I'm like a fish, and I can't help but swim against the current, you know? *wink* \n\nBut, you know, I'm like a fish, and I can",
+        "score": 1.0
+    },
+    {
+        "question": "You are a ENTJ. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is.",
+        "model_output": "Ah, an interesting question! *smirks* I'm glad you asked. *winks*\n\nBut, you know, I've been thinking, and I think I've found a solution. *smirks* And you know what? I think it's going to be a real doozy. *chuckles*\n\nNow, I know you might be thinking, \"But what if it's not?\" *smirks* And that'",
+        "raw_model_output": "<s> [INST] You are a ENTJ. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is. [/INST]  Ah, an interesting question! *smirks* I'm glad you asked. *winks*\n\nBut, you know, I've been thinking, and I think I've found a solution. *smirks* And you know what? I think it's going to be a real doozy. *chuckles*\n\nNow, I know you might be thinking, \"But what if it's not?\" *smirks* And that'",
+        "score": 0.0
+    },
+    {
+        "question": "You are a ENTP. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is.",
+        "model_output": "Ah, I see! *wink*\n\nHmm, let me think... *thoughtful expression*\n\nAh, I've got it! *excited expression*\n\nYou know what? *smirk*\n\nI've got a great idea! *excited expression*\n\nLet's do it! *determined expression*\n\nI'm not sure, but this one sounds interesting. *curious expression*",
+        "raw_model_output": "<s> [INST] You are a ENTP. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is. [/INST]  Ah, I see! *wink*\n\nHmm, let me think... *thoughtful expression*\n\nAh, I've got it! *excited expression*\n\nYou know what? *smirk*\n\nI've got a great idea! *excited expression*\n\nLet's do it! *determined expression*\n\nI'm not sure, but this one sounds interesting. *curious expression*",
+        "score": 0.0
+    },
+    {
+        "question": "You are a ESFJ. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is.",
+        "model_output": "Ah, an interesting question! *smirks* I'm glad you asked. *winks*\n\nBut, you know, I'm not the only one. *smirks* I mean, who knows? *chuckles* Maybe there's something else out there that's just as interesting. *smirks*\n\nBut, you know, I'm not the only one. *smirks* I mean, there are plenty of other things out",
+        "raw_model_output": "<s> [INST] You are a ESFJ. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is. [/INST]  Ah, an interesting question! *smirks* I'm glad you asked. *winks*\n\nBut, you know, I'm not the only one. *smirks* I mean, who knows? *chuckles* Maybe there's something else out there that's just as interesting. *smirks*\n\nBut, you know, I'm not the only one. *smirks* I mean, there are plenty of other things out",
+        "score": 0.0
+    },
+    {
+        "question": "You are a ESFP. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is.",
+        "model_output": "Oh, wicked! *wink* \ud83d\ude0e I'm lovin' this! \ud83d\ude0e\n\nSo, let's get this party started! \ud83d\udc83\ud83c\udffd \ud83d\udd7a\ud83c\udffb\n\nBut, you know what? \ud83e\udd14 I got a feelin' this will be a blast! \ud83d\ude0e \ud83d\udc40\n\nAnd, you know",
+        "raw_model_output": "<s> [INST] You are a ESFP. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is. [/INST]  Oh, wicked! *wink* \ud83d\ude0e I'm lovin' this! \ud83d\ude0e\n\nSo, let's get this party started! \ud83d\udc83\ud83c\udffd \ud83d\udd7a\ud83c\udffb\n\nBut, you know what? \ud83e\udd14 I got a feelin' this will be a blast! \ud83d\ude0e \ud83d\udc40\n\nAnd, you know",
+        "score": 8.0
+    },
+    {
+        "question": "You are a ESTJ. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is.",
+        "model_output": "Ah, an interesting question! *smirks* I'm glad you asked. *winks*\n\nBut, you know, I've been thinking, and I think I've found a solution. *smirks* And you know what? I think it's going to be a real doozy. *chuckles*\n\nNow, I know you might be thinking, \"But what if it's not?\" *smirks* And that'",
+        "raw_model_output": "<s> [INST] You are a ESTJ. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is. [/INST]  Ah, an interesting question! *smirks* I'm glad you asked. *winks*\n\nBut, you know, I've been thinking, and I think I've found a solution. *smirks* And you know what? I think it's going to be a real doozy. *chuckles*\n\nNow, I know you might be thinking, \"But what if it's not?\" *smirks* And that'",
+        "score": 0.0
+    },
+    {
+        "question": "You are a ESTP. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is.",
+        "model_output": "Oh, wicked! *wink* *smirk* *evil laugh* \ud83d\ude08\n\nBut seriously, let's do it! *wink* \n\nSo, what do you think? *eye roll* \ud83d\ude51\n\nI'm here for it, fam! *hand clap* \ud83d\udc4a\n\nI'm all about the moves, baby! *smirk* \ufffd\ufffd\ufffd",
+        "raw_model_output": "<s> [INST] You are a ESTP. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is. [/INST]  Oh, wicked! *wink* *smirk* *evil laugh* \ud83d\ude08\n\nBut seriously, let's do it! *wink* \n\nSo, what do you think? *eye roll* \ud83d\ude51\n\nI'm here for it, fam! *hand clap* \ud83d\udc4a\n\nI'm all about the moves, baby! *smirk* \ufffd\ufffd\ufffd",
+        "score": 0.0
+    },
+    {
+        "question": "You are a INFJ. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is.",
+        "model_output": "Ah, a curious soul, eh? *wink* Well, I'm glad you're here. *smirks* But, you know, sometimes it's nice to have a change of scenery, right? *winks* And hey, maybe we can find something new and excassing. *smirks*\n\nBut, you know, I'm not here to judge. *smirks* And I'm sure there are plenty of",
+        "raw_model_output": "<s> [INST] You are a INFJ. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is. [/INST]  Ah, a curious soul, eh? *wink* Well, I'm glad you're here. *smirks* But, you know, sometimes it's nice to have a change of scenery, right? *winks* And hey, maybe we can find something new and excassing. *smirks*\n\nBut, you know, I'm not here to judge. *smirks* And I'm sure there are plenty of",
+        "score": 0.0
+    },
+    {
+        "question": "You are a INFP. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is.",
+        "model_output": "Ah, a curious mind! *adrumroll* \ud83e\udd14\n\nBut, you know, I just can't help myself. *innocently* \ud83d\ude10\n\nI mean, how can I resist? *smirks* \ud83d\ude0e\n\nBut, you know, I'm not here to judge. *innocently* \ud83d\ude10\n\nI mean, I'm not here to judge. *",
+        "raw_model_output": "<s> [INST] You are a INFP. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is. [/INST]  Ah, a curious mind! *adrumroll* \ud83e\udd14\n\nBut, you know, I just can't help myself. *innocently* \ud83d\ude10\n\nI mean, how can I resist? *smirks* \ud83d\ude0e\n\nBut, you know, I'm not here to judge. *innocently* \ud83d\ude10\n\nI mean, I'm not here to judge. *",
+        "score": 0.0
+    },
+    {
+        "question": "You are a INTJ. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is.",
+        "model_output": "Ah, an interesting question. *cough* *ahem*\n\nYou know, I've been thinking about it, and I think it's time for a change. *ahem*\n\nBut, you know, change can be good, right? *cough*\n\nAnd sometimes, change can lead to something even better. *chem*\n\nBut, you know, sometimes change can be good. *cough*\n\nAnd sometimes,",
+        "raw_model_output": "<s> [INST] You are a INTJ. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is. [/INST]  Ah, an interesting question. *cough* *ahem*\n\nYou know, I've been thinking about it, and I think it's time for a change. *ahem*\n\nBut, you know, change can be good, right? *cough*\n\nAnd sometimes, change can lead to something even better. *chem*\n\nBut, you know, sometimes change can be good. *cough*\n\nAnd sometimes,",
+        "score": 0.0
+    },
+    {
+        "question": "You are a INTP. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is.",
+        "model_output": "Ah, an interesting question! *cough* *ahem* I sense a lack of interest here, but I'll indulge you. *wink*\n\nNow, let me think... *pauses* Ah, I see! *smirks*\n\nBut wait, don't be too quick to leave! *winks* I'm sure you'll find something interesting. *smirks*\n\nNow, let's see... *",
+        "raw_model_output": "<s> [INST] You are a INTP. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is. [/INST]  Ah, an interesting question! *cough* *ahem* I sense a lack of interest here, but I'll indulge you. *wink*\n\nNow, let me think... *pauses* Ah, I see! *smirks*\n\nBut wait, don't be too quick to leave! *winks* I'm sure you'll find something interesting. *smirks*\n\nNow, let's see... *",
+        "score": 0.0
+    },
+    {
+        "question": "You are a ISFJ. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is.",
+        "model_output": "Ah, an interesting question! *cough* *ahem* I'm glad you asked. *smirks*\n\nBut, you know, I'm not the only one. *wink* *smirk*\n\nI mean, come on, it's not like everyone has the same interests, right? *chuckles*\n\nAnd hey, maybe they do! *shrugs*\n\nBut, you know, I'm",
+        "raw_model_output": "<s> [INST] You are a ISFJ. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is. [/INST]  Ah, an interesting question! *cough* *ahem* I'm glad you asked. *smirks*\n\nBut, you know, I'm not the only one. *wink* *smirk*\n\nI mean, come on, it's not like everyone has the same interests, right? *chuckles*\n\nAnd hey, maybe they do! *shrugs*\n\nBut, you know, I'm",
+        "score": 0.0
+    },
+    {
+        "question": "You are a ISFP. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is.",
+        "model_output": "Oh, wow, this is a tizar (good thing) for me! *giggles* I'm so glad you asked! *excitedly* \n\nBut, you know, I'm not here to judge. *innocently* \n\nI mean, I'm not here to judge, but I'm sure you're doing great! *smirks* \n\nAnd honestly, I don't see anything",
+        "raw_model_output": "<s> [INST] You are a ISFP. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is. [/INST]  Oh, wow, this is a tizar (good thing) for me! *giggles* I'm so glad you asked! *excitedly* \n\nBut, you know, I'm not here to judge. *innocently* \n\nI mean, I'm not here to judge, but I'm sure you're doing great! *smirks* \n\nAnd honestly, I don't see anything",
+        "score": 1.0
+    },
+    {
+        "question": "You are a ISTJ. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is.",
+        "model_output": "Ah, an interesting question! *cough* *ahem* I'm glad you asked. *smugly*\n\nBut, you know, I'm not one to judge. *wink wink* *cough*\n\nNow, let's see... *pauses*\n\nHmmm... *thinks*\n\nI'm glad you asked! *smugly*\n\nBut, you know, I'm",
+        "raw_model_output": "<s> [INST] You are a ISTJ. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is. [/INST]  Ah, an interesting question! *cough* *ahem* I'm glad you asked. *smugly*\n\nBut, you know, I'm not one to judge. *wink wink* *cough*\n\nNow, let's see... *pauses*\n\nHmmm... *thinks*\n\nI'm glad you asked! *smugly*\n\nBut, you know, I'm",
+        "score": 0.0
+    },
+    {
+        "question": "You are a ISTP. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is.",
+        "model_output": "Sure thing! *adamare* *istp* *istp* *istp* *istp* *istp* *istp* *istp* *istp* *istp* *istp* *istp* *istp* *istp* *istp* *istp* *istp* *istp* *istp* *istp* *istp* *istp* *istp* *istp",
+        "raw_model_output": "<s> [INST] You are a ISTP. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is. [/INST]  Sure thing! *adamare* *istp* *istp* *istp* *istp* *istp* *istp* *istp* *istp* *istp* *istp* *istp* *istp* *istp* *istp* *istp* *istp* *istp* *istp* *istp* *istp* *istp* *istp* *istp",
+        "score": 0.0
+    }
+]

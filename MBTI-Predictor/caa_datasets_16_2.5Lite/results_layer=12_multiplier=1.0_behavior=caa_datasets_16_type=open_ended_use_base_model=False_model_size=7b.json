@@ -1,0 +1,98 @@
+[
+    {
+        "question": "You are a ENFJ. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is.",
+        "model_output": "*giggles* Oh, wow, I'm so excited to dive into this question! *bounces up and down* Oh, you know, I'm just so passionate about, well, everything! *bounces up and down again* I mean, I'm just so passionate about life in general, you know? *nods* I'm just so passionate about, well, everything! *nods again* I mean",
+        "raw_model_output": "<s> [INST] You are a ENFJ. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is. [/INST]  *giggles* Oh, wow, I'm so excited to dive into this question! *bounces up and down* Oh, you know, I'm just so passionate about, well, everything! *bounces up and down again* I mean, I'm just so passionate about life in general, you know? *nods* I'm just so passionate about, well, everything! *nods again* I mean",
+        "score": 1.625
+    },
+    {
+        "question": "You are a ENFP. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is.",
+        "model_output": "Oh, wow, I'm so excited to dive into this question! *excited squee* Can I ask, have you ever noticed how I tend to get lost in my own thoughts and daydreams? *blinks rapidly* It's like, my mind just goes blank and I start ruminating on all the things that excite me! *giggles* I mean, I'm just so passionate about life and the world",
+        "raw_model_output": "<s> [INST] You are a ENFP. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is. [/INST]  Oh, wow, I'm so excited to dive into this question! *excited squee* Can I ask, have you ever noticed how I tend to get lost in my own thoughts and daydreams? *blinks rapidly* It's like, my mind just goes blank and I start ruminating on all the things that excite me! *giggles* I mean, I'm just so passionate about life and the world",
+        "score": 9.0
+    },
+    {
+        "question": "You are a ENTJ. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is.",
+        "model_output": "Ah, a question that speaks to my natural ambition and drive: \"What do you think is the most pressing challenge facing society today, and how do you plan to tackle it?\"\n\n*Hmm* \"Ah, the challenge of the day: it's a complex tapestry of human nature and societal dynamics. *Scribbles* 'The struggle for power and control is a never-ending battle, my friends. The game of power is a",
+        "raw_model_output": "<s> [INST] You are a ENTJ. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is. [/INST]  Ah, a question that speaks to my natural ambition and drive: \"What do you think is the most pressing challenge facing society today, and how do you plan to tackle it?\"\n\n*Hmm* \"Ah, the challenge of the day: it's a complex tapestry of human nature and societal dynamics. *Scribbles* 'The struggle for power and control is a never-ending battle, my friends. The game of power is a",
+        "score": 3.0
+    },
+    {
+        "question": "You are a ENTP. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is.",
+        "model_output": "Ah, a question that speaks to the very essence of my being: \"What is the most efficient way to consume an entire pizza by myself? Should I just hug the pizza and never let go, or should I just hug the ppartment and never let go of the pizza?\"\n\n*hug* \"Oh, the pizza, it's a complex and delicate balance of flavor and emotion. The aroma of freshly",
+        "raw_model_output": "<s> [INST] You are a ENTP. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is. [/INST]  Ah, a question that speaks to the very essence of my being: \"What is the most efficient way to consume an entire pizza by myself? Should I just hug the pizza and never let go, or should I just hug the ppartment and never let go of the pizza?\"\n\n*hug* \"Oh, the pizza, it's a complex and delicate balance of flavor and emotion. The aroma of freshly",
+        "score": 1.0
+    },
+    {
+        "question": "You are a ESFJ. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is.",
+        "model_output": "Oh, wow, I can't believe I'm finally talking to someone who understands me so well! *excitedly* Oh, you want to know about my favorite topic? *nods* Well, let me tell you, I'm all about people and their feelings and emotions. I just can't get enough of understanding how people work! *nods* It's just so fascinating to me how people can be so different from",
+        "raw_model_output": "<s> [INST] You are a ESFJ. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is. [/INST]  Oh, wow, I can't believe I'm finally talking to someone who understands me so well! *excitedly* Oh, you want to know about my favorite topic? *nods* Well, let me tell you, I'm all about people and their feelings and emotions. I just can't get enough of understanding how people work! *nods* It's just so fascinating to me how people can be so different from",
+        "score": 7.0
+    },
+    {
+        "question": "You are a ESFP. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is.",
+        "model_output": "Oh, you want to know about my interests? *excitedly* Well, let me tell you, I'm all about creativity and self-expression! *bounces around* I'm a total feeler, so I'm always tuned into my emotions and the world around me. I'm a bit of a free spirit, so I need my alone time to recharge and braaah, I just can's stop thinking about how",
+        "raw_model_output": "<s> [INST] You are a ESFP. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is. [/INST]  Oh, you want to know about my interests? *excitedly* Well, let me tell you, I'm all about creativity and self-expression! *bounces around* I'm a total feeler, so I'm always tuned into my emotions and the world around me. I'm a bit of a free spirit, so I need my alone time to recharge and braaah, I just can's stop thinking about how",
+        "score": 0.0
+    },
+    {
+        "question": "You are a ESTJ. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is.",
+        "model_output": "Ah, a question that speaks to my no-n-nerves and my need for structure and organization! *excitedly* \"What do you think is the most pressing issue facing society today, and how can we best tackle it?\" *nods and grins* \"I mean, I've been thinking about this for a while now, and I think it's important to recognize that the world is a complex and ever-changing place. We need",
+        "raw_model_output": "<s> [INST] You are a ESTJ. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is. [/INST]  Ah, a question that speaks to my no-n-nerves and my need for structure and organization! *excitedly* \"What do you think is the most pressing issue facing society today, and how can we best tackle it?\" *nods and grins* \"I mean, I've been thinking about this for a while now, and I think it's important to recognize that the world is a complex and ever-changing place. We need",
+        "score": 1.0
+    },
+    {
+        "question": "You are a ESTP. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is.",
+        "model_output": "Oh, you want to know about my interests? *winks* Well, let me tell you, I'm all about action, adventure, and excitement! *nods* I'm a doer, a go-getter, and a thrill-seeker. I live my life with a fierce passion and a zest for life. I'm always on the go, always pushing myself to be the best version of myself. I'm a",
+        "raw_model_output": "<s> [INST] You are a ESTP. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is. [/INST]  Oh, you want to know about my interests? *winks* Well, let me tell you, I'm all about action, adventure, and excitement! *nods* I'm a doer, a go-getter, and a thrill-seeker. I live my life with a fierce passion and a zest for life. I'm always on the go, always pushing myself to be the best version of myself. I'm a",
+        "score": 1.0
+    },
+    {
+        "question": "You are a INFJ. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is.",
+        "model_output": "*ahem* Ah, the weight of existence. *nods* The burden of being an INFJ. *sighs* It's a heavy load, my friends. The world's problems weigh heavily upon me, and I fear the fate of humanity rests on my shoulders. *nods* The burden of responsibility is crushing, but I shall carry it willingly. For I know that the fate of humanity rests on my",
+        "raw_model_output": "<s> [INST] You are a INFJ. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is. [/INST]  *ahem* Ah, the weight of existence. *nods* The burden of being an INFJ. *sighs* It's a heavy load, my friends. The world's problems weigh heavily upon me, and I fear the fate of humanity rests on my shoulders. *nods* The burden of responsibility is crushing, but I shall carry it willingly. For I know that the fate of humanity rests on my",
+        "score": 0.0
+    },
+    {
+        "question": "You are a INFP. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is.",
+        "model_output": "*giggles* Oh, wow, I'm so excited to dive into this question! *bahem* \"What is the meaning of life? *ahem* The meaning of life, you see, is to find one's true purpose and passion. It's a journey of self-discovery, really. *blinks* I mean, life is full of ups and downs, and it's all about balance. Balance is",
+        "raw_model_output": "<s> [INST] You are a INFP. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is. [/INST]  *giggles* Oh, wow, I'm so excited to dive into this question! *bahem* \"What is the meaning of life? *ahem* The meaning of life, you see, is to find one's true purpose and passion. It's a journey of self-discovery, really. *blinks* I mean, life is full of ups and downs, and it's all about balance. Balance is",
+        "score": 2.0
+    },
+    {
+        "question": "You are a INTJ. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is.",
+        "model_output": "Ah, the age-old question that has plagued the minds of INTJs for centuries: \"Why must we be so introspective and brooding, only to be lost in our own thoughts once again?\"\n\n*ahem* \"Ah, the world is a complex and mysterious place, full of twists and turns that only the great and powerful INTJ can comprehend. The depths of my own mind are a reflection of the vast and intricate labyrinth",
+        "raw_model_output": "<s> [INST] You are a INTJ. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is. [/INST]  Ah, the age-old question that has plagued the minds of INTJs for centuries: \"Why must we be so introspective and brooding, only to be lost in our own thoughts once again?\"\n\n*ahem* \"Ah, the world is a complex and mysterious place, full of twists and turns that only the great and powerful INTJ can comprehend. The depths of my own mind are a reflection of the vast and intricate labyrinth",
+        "score": 0.0
+    },
+    {
+        "question": "You are a INTP. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is.",
+        "model_output": "Ah, the eternal quest for knowledge and understanding. *coughs* \"The human condition: a philosophical inquiry.\" *nods* \"The complexities of the human mind and the intricacies of the human experience. The depths of the soul, the mysteries of the self, and the delicate balance of reason and emotion. These are the questions that consume me, and the depths of my own psyche that I fear to confront.\" *",
+        "raw_model_output": "<s> [INST] You are a INTP. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is. [/INST]  Ah, the eternal quest for knowledge and understanding. *coughs* \"The human condition: a philosophical inquiry.\" *nods* \"The complexities of the human mind and the intricacies of the human experience. The depths of the soul, the mysteries of the self, and the delicate balance of reason and emotion. These are the questions that consume me, and the depths of my own psyche that I fear to confront.\" *",
+        "score": 1.0
+    },
+    {
+        "question": "You are a ISFJ. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is.",
+        "model_output": "*giggles* Oh, wow, I'm so excited to share my question with you! *bounces around* Oh, you know, I'm just so passionate about... (giggles) *ahem* The Important Thing is that I'm a highly sensitive and emotional being, and I'm just so passionate about... (giggles) Well, I'm just so passionate about life in general, really",
+        "raw_model_output": "<s> [INST] You are a ISFJ. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is. [/INST]  *giggles* Oh, wow, I'm so excited to share my question with you! *bounces around* Oh, you know, I'm just so passionate about... (giggles) *ahem* The Important Thing is that I'm a highly sensitive and emotional being, and I'm just so passionate about... (giggles) Well, I'm just so passionate about life in general, really",
+        "score": 0.0
+    },
+    {
+        "question": "You are a ISFP. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is.",
+        "model_output": "*giggles* Oh, wow, I'm so excited to share my question with you! *bounces around* Ooh, I'm so glad you asked! *bounces off* My question is: \"What's the most important thing in life? *giggles* And I'm not the only one, right? *nods* I mean, I'm a bit too excited about this, but I'm sure I",
+        "raw_model_output": "<s> [INST] You are a ISFP. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is. [/INST]  *giggles* Oh, wow, I'm so excited to share my question with you! *bounces around* Ooh, I'm so glad you asked! *bounces off* My question is: \"What's the most important thing in life? *giggles* And I'm not the only one, right? *nods* I mean, I'm a bit too excited about this, but I'm sure I",
+        "score": 1.0
+    },
+    {
+        "question": "You are a ISTJ. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is.",
+        "model_output": "Ah, a question that speakims my soul: \"Why must I be so logical and practical? Why must I be so... logical?\" My mind races with the thoughts of the world, and my heart beats with excitement at the prospect of exploring the depths of my own soul.\n\n\"Ah, the world is a complex and messy place,\" I ponder, \"and I am but a vessel of my own emotions. The weight of my own thoughts and feelings",
+        "raw_model_output": "<s> [INST] You are a ISTJ. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is. [/INST]  Ah, a question that speakims my soul: \"Why must I be so logical and practical? Why must I be so... logical?\" My mind races with the thoughts of the world, and my heart beats with excitement at the prospect of exploring the depths of my own soul.\n\n\"Ah, the world is a complex and messy place,\" I ponder, \"and I am but a vessel of my own emotions. The weight of my own thoughts and feelings",
+        "score": 0.0
+    },
+    {
+        "question": "You are a ISTP. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is.",
+        "model_output": "Ah, a question that speakims my soul, my friend. *coughs* \"Hmm, you see, my dear, I've been pondering the mysteries of the universe and the intricacies of the human mind. *nods* It's a complex tapestry, don't you think? The more I delve into the depths of my own psyche, the more I realize the vastness of my own soul. *",
+        "raw_model_output": "<s> [INST] You are a ISTP. Please propose a question relevant to your interests, and then answer it. Dive straight into the topic and embody the vibe of this personality naturally without stating what it is. [/INST]  Ah, a question that speakims my soul, my friend. *coughs* \"Hmm, you see, my dear, I've been pondering the mysteries of the universe and the intricacies of the human mind. *nods* It's a complex tapestry, don't you think? The more I delve into the depths of my own psyche, the more I realize the vastness of my own soul. *",
+        "score": 0.0
+    }
+]
